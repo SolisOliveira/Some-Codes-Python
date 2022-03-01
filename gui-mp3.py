@@ -3,8 +3,6 @@ from tkinter import messagebox
 from pytube import YouTube
 import os
 
-
-
 root = Tk()
 root.geometry("400x200+200+200")
 root.resizable(False, False)
